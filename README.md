@@ -19,14 +19,13 @@
 
 5. **Use in Model Building**
     ```python
-#Model Build
-m = 0
-c = 0
-L = 0.5
-epochs = 1000
-n = float(len(X))
+    m = 0
+    c = 0
+    L = 0.5
+    epochs = 1000
+    n = float(len(X))
 
-for i in range(epochs):
+    for i in range(epochs):
     Y_pred = m * X + c
     cost = (1/n) * sum((Y - Y_pred)**2)
     print(f'Epoch {i+1}, Cost: {cost}')
@@ -35,8 +34,8 @@ for i in range(epochs):
     m = m - L * D_m
     c = c - L * D_c
 
-print("Slope (m):", m)
-print("Intercept (c):", c)
+    print("Slope (m):", m)
+    print("Intercept (c):", c)
     ```
     
 6. **Standardize Input**
