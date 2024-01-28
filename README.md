@@ -15,7 +15,7 @@
     # Example: Y_data = pd.read_csv('linearY.csv')
     ```
 4. **Partial Derivative of Cost Function**
-    <img src="drv_ML.png" width="100px">
+    <img src="drv_ML.png" width="200px">
 
 5. **Use in Model Building**
     ```python
