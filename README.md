@@ -1,4 +1,4 @@
-# Machine Learning Assignment README
+# Machine Learning Assignment-1 README
 
 ## Usage
 
@@ -15,9 +15,8 @@
     # Example: Y_data = pd.read_csv('linearY.csv')
     ```
 4. **Partial Derivative of Cost Function**
-    ```python
-    # Your partial derivative code here
-    ```
+    <img src="drv_ML.png" width="20px">
+
 5. **Use in Model Building**
     ```python
     # Your model building code here
