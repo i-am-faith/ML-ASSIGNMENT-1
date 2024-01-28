@@ -38,6 +38,7 @@ for i in range(epochs):
 print("Slope (m):", m)
 print("Intercept (c):", c)
     ```
+    
 6. **Standardize Input**
     ```python
     X = (X - X.mean()) / (X.std())
