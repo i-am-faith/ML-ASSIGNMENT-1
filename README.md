@@ -35,8 +35,4 @@
 - Experiment with different algorithms for model building.
 - Document your code for better understanding.
 
-## Colors
-Feel free to add color to your code using HTML style tags:
 
-```html
-<span style="color: #00FFFF;">Your text here</span>
