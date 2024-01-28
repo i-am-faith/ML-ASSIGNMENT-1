@@ -11,8 +11,8 @@
     ```
 3. **Read CSV Files**
     ```python
-    # Example: X_data = pd.read_csv('linearX.csv')
-    # Example: Y_data = pd.read_csv('linearY.csv')
+    X_data = pd.read_csv('linearX.csv')
+    Y_data = pd.read_csv('linearY.csv')
     ```
 4. **Partial Derivative of Cost Function**
     <img src="drv_ML.png" width="300px">
