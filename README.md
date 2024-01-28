@@ -14,9 +14,7 @@
     </style>
 </head>
 <body>
-
-    <h2>Usage :- </h2>
-
+<h2>Usage :- </h2>
     <h3>
         <div>1. Open your Jupyter notebook</div>
         <div>2. Import pandas, numpy, and matplotlib library</div>
@@ -27,6 +25,5 @@
             <div><span>X = (X - X.mean())/(X.std())</span></div>
         <div>7. Do the following questions</div>
     </h3>
-
 </body>
 </html>
