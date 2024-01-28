@@ -3,8 +3,8 @@
 <h2>Usage :- </h2>
 
 <h3>
-  1. Open your jupyter notebook
-  2. import pandas , numpy and matplotlib library
+  <div>1. Open your jupyter notebook</div>
+  <div>2. import pandas , numpy and matplotlib library</div>
   3. read X and Y variables using given CSV Files
   4. Find the partial derivative of the cost function
   5. Use this when building the model
